@@ -1,7 +1,7 @@
 package Arrays;
 
 import java.util.*;
-class Solution {
+class SubArraySumsDivisibleByK {
     public int subarraysDivByK(int[] nums, int k) {
         int cnt=0;
         int sum=0;

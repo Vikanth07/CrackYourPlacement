@@ -1,7 +1,7 @@
 package Arrays;
 
 import java.util.*;
-class Solution {
+class SubArraySumEqualsK {
     public int subarraySum(int[] nums, int k) {
         int cnt=0;
         int preSum=0;

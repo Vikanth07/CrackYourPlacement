@@ -1,6 +1,6 @@
 package Arrays;
 import java.util.*;
-class Solution {
+class FindAllDuplicatesInAnArray {
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> lst = new ArrayList<>();
         for(int i=0; i<nums.length; i++){

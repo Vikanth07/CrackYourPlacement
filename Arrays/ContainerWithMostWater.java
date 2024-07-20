@@ -1,6 +1,6 @@
 package Arrays;
 
-class Solution {
+class ContainerWithMostWater {
     public int maxArea(int[] height) {
         int lp=0;
         int rp=height.length-1;
