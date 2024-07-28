@@ -1,5 +1,3 @@
-package Trees;
-
   class TreeNode {
       int val;
       TreeNode left;
