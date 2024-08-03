@@ -9,7 +9,7 @@ package LinkedList;
       }
   }
  
-public class LinkedListCycle {
+class LinkedListCycle {
     public boolean hasCycle(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
